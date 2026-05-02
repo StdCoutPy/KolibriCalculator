@@ -21,6 +21,8 @@ qt_add_qml_module(appKolibriCalculator
         RESOURCES
         RESOURCES LICENSE
         RESOURCES
+        RESOURCES
+        RESOURCES
         RESOURCES README.md
 )
 
