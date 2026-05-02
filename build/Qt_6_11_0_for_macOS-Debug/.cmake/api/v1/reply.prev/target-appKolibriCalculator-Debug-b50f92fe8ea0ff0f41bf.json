@@ -100,13 +100,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 39,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 35,
+				"line" : 37,
 				"parent" : 0
 			},
 			{
@@ -716,6 +716,13 @@
 	"dependencies" : 
 	[
 		{
+			"id" : "appKolibriCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appKolibriCalculator_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
 			"backtrace" : 42,
 			"id" : "appKolibriCalculator_copy_qml::@6890427a1f51a3e7e1df"
 		},
@@ -734,13 +741,6 @@
 		{
 			"backtrace" : 56,
 			"id" : "appKolibriCalculator_qmlimportscan::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "appKolibriCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 0,
-			"id" : "appKolibriCalculator_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appKolibriCalculator::@6890427a1f51a3e7e1df",
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"backtrace" : 84,
-			"path" : "README.md",
+			"path" : "LICENSE",
 			"sourceGroupIndex" : 2
 		},
 		{

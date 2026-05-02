@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-adc6902db127c6b4e38d.json",
+					"jsonFile" : "directory-.-Debug-cd52b59a92a320627686.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -113,7 +113,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appKolibriCalculator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appKolibriCalculator-Debug-32e165ce99c4ce98acdc.json",
+					"jsonFile" : "target-appKolibriCalculator-Debug-b50f92fe8ea0ff0f41bf.json",
 					"name" : "appKolibriCalculator",
 					"projectIndex" : 0
 				},

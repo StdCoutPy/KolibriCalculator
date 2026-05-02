@@ -127,8 +127,8 @@ KolibriCalculator/appKolibriCalculator.qmltypes: appkolibricalculator_qmltypereg
 	/Users/mrbread/Qt/6.11.0/macos/libexec/rcc --output /Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_appKolibriCalculator_raw_qml_0.cpp --name appKolibriCalculator_raw_qml_0 /Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/appKolibriCalculator_raw_qml_0.qrc --no-zstd
 
 .qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: /Users/mrbread/KolibriCalculator/.gitignore
-.qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: /Users/mrbread/KolibriCalculator/README.md
 .qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: /Users/mrbread/KolibriCalculator/LICENSE
+.qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: /Users/mrbread/KolibriCalculator/README.md
 .qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: .qt/rcc/appKolibriCalculator_raw_res_0.qrc
 .qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp: /Users/mrbread/Qt/6.11.0/macos/libexec/rcc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Running rcc for resource appKolibriCalculator_raw_res_0"

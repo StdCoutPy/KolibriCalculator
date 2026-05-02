@@ -70,8 +70,8 @@ CMakeFiles/appKolibriCalculator_copy_res: .qt/appKolibriCalculator_res.txt
 
 .qt/appKolibriCalculator_res.txt: /Users/mrbread/Qt/6.11.0/macos/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 .qt/appKolibriCalculator_res.txt: /Users/mrbread/KolibriCalculator/.gitignore
-.qt/appKolibriCalculator_res.txt: /Users/mrbread/KolibriCalculator/README.md
 .qt/appKolibriCalculator_res.txt: /Users/mrbread/KolibriCalculator/LICENSE
+.qt/appKolibriCalculator_res.txt: /Users/mrbread/KolibriCalculator/README.md
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Copying appKolibriCalculator qml resources into build dir"
 	/Users/mrbread/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -DFILES_INFO_PATH=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/appKolibriCalculator_res.cmake -P /Users/mrbread/Qt/6.11.0/macos/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 

@@ -1,8 +1,8 @@
 <RCC>
   <qresource prefix="/qt/qml/KolibriCalculator/">
     <file alias=".gitignore">/Users/mrbread/KolibriCalculator/.gitignore</file>
-    <file alias="README.md">/Users/mrbread/KolibriCalculator/README.md</file>
     <file alias="LICENSE">/Users/mrbread/KolibriCalculator/LICENSE</file>
+    <file alias="README.md">/Users/mrbread/KolibriCalculator/README.md</file>
   </qresource>
 </RCC>
 

@@ -97,13 +97,13 @@ clean: CMakeFiles/appKolibriCalculator_autogen.dir/clean
 # Target rules for target CMakeFiles/appKolibriCalculator.dir
 
 # All Build rule for target.
-CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
-CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_autogen.dir/all
 CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_copy_qml.dir/all
 CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_copy_res.dir/all
 CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_generate_qmlls_ini_file.dir/all
 CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/generate_qmlls_build_ini_file.dir/all
 CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_qmlimportscan.dir/all
+CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_autogen.dir/all
+CMakeFiles/appKolibriCalculator.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appKolibriCalculator.dir/build.make CMakeFiles/appKolibriCalculator.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appKolibriCalculator.dir/build.make CMakeFiles/appKolibriCalculator.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 "Built target appKolibriCalculator"
@@ -493,8 +493,8 @@ CMakeFiles/generate_qmlls_build_ini_file.dir/clean:
 # Target rules for target CMakeFiles/module_appKolibriCalculator_aotstats_target.dir
 
 # All Build rule for target.
-CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
 CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/all: CMakeFiles/appKolibriCalculator_qmltyperegistration.dir/all
+CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/build.make CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/build.make CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles --progress-num=35,36 "Built target module_appKolibriCalculator_aotstats_target"
@@ -520,8 +520,8 @@ CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/clean:
 # Target rules for target CMakeFiles/all_aotstats.dir
 
 # All Build rule for target.
-CMakeFiles/all_aotstats.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
 CMakeFiles/all_aotstats.dir/all: CMakeFiles/module_appKolibriCalculator_aotstats_target.dir/all
+CMakeFiles/all_aotstats.dir/all: CMakeFiles/appKolibriCalculator_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_aotstats.dir/build.make CMakeFiles/all_aotstats.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_aotstats.dir/build.make CMakeFiles/all_aotstats.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles --progress-num=1 "Built target all_aotstats"

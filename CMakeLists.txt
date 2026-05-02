@@ -18,8 +18,10 @@ qt_add_qml_module(appKolibriCalculator
     QML_FILES
         Main.qml
         RESOURCES .gitignore
-        RESOURCES README.md
+        RESOURCES
         RESOURCES LICENSE
+        RESOURCES
+        RESOURCES README.md
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
