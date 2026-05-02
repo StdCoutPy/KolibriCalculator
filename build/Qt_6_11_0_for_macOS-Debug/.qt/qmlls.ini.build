@@ -1,0 +1,5 @@
+[General]
+buildDir="/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug"
+no-cmake-calls=false
+docDir=/Users/mrbread/Qt/Docs/Qt-6.11.0
+importPaths="/Users/mrbread/Qt/6.11.0/macos/qml"

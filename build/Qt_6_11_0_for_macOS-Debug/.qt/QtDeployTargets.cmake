@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appKolibriCalculator_FILE /Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/appKolibriCalculator.app/Contents/MacOS/appKolibriCalculator)
+set(__QT_DEPLOY_TARGET_appKolibriCalculator_TYPE EXECUTABLE)

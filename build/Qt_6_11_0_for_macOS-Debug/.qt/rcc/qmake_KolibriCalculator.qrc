@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/KolibriCalculator">
+    <file alias="qmldir">/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/KolibriCalculator/qmldir</file>
+  </qresource>
+</RCC>
+

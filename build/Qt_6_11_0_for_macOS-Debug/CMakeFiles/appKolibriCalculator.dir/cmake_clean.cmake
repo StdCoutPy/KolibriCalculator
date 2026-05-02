@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appKolibriCalculator_raw_qml_0.cpp"
+  ".qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp"
+  ".qt/rcc/qrc_qmake_KolibriCalculator.cpp"
+  ".rcc/qmlcache/appKolibriCalculator_Main_qml.cpp"
+  ".rcc/qmlcache/appKolibriCalculator_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appKolibriCalculator_qmlcache_loader.cpp"
+  "CMakeFiles/appKolibriCalculator_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appKolibriCalculator_autogen.dir/ParseCache.txt"
+  "appKolibriCalculator_autogen"
+  "CMakeFiles/appKolibriCalculator.dir/appKolibriCalculator_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/appKolibriCalculator_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/appkolibricalculator_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/appkolibricalculator_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_appKolibriCalculator_raw_qml_0.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_appKolibriCalculator_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_appKolibriCalculator_raw_res_0.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_qmake_KolibriCalculator.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qrc_qmake_KolibriCalculator.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.rcc/qmlcache/appKolibriCalculator_Main_qml.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.rcc/qmlcache/appKolibriCalculator_Main_qml.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.rcc/qmlcache/appKolibriCalculator_qmlcache_loader.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/build/Qt_6_11_0_for_macOS-Debug/.rcc/qmlcache/appKolibriCalculator_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appKolibriCalculator.dir/main.cpp.o"
+  "CMakeFiles/appKolibriCalculator.dir/main.cpp.o.d"
+  "KolibriCalculator/appKolibriCalculator.qmltypes"
+  "appKolibriCalculator.app/Contents/MacOS/appKolibriCalculator"
+  "appKolibriCalculator.pdb"
+  "appKolibriCalculator_autogen/mocs_compilation.cpp"
+  "appKolibriCalculator_autogen/timestamp"
+  "appkolibricalculator_qmltyperegistrations.cpp"
+  "meta_types/appKolibriCalculator_json_file_list.txt"
+  "meta_types/appKolibriCalculator_json_file_list.txt.timestamp"
+  "meta_types/qt6appkolibricalculator_metatypes.json"
+  "meta_types/qt6appkolibricalculator_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appKolibriCalculator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,15 @@
+-rootPath
+/Users/mrbread/KolibriCalculator
+-cmake-output
+-output-file
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/qml_imports/appKolibriCalculator_conf.cmake
+-importPath
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug
+-importPath
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/KolibriCalculator
+-importPath
+/Users/mrbread/Qt/6.11.0/macos/qml
+-qrcFiles
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/qmake_KolibriCalculator.qrc
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/appKolibriCalculator_raw_qml_0.qrc
+/Users/mrbread/KolibriCalculator/build/Qt_6_11_0_for_macOS-Debug/.qt/rcc/appKolibriCalculator_raw_res_0.qrc
