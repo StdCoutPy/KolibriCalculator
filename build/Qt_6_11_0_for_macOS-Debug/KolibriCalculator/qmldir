@@ -1,6 +1,0 @@
-module KolibriCalculator
-typeinfo appKolibriCalculator.qmltypes
-prefer :/qt/qml/KolibriCalculator/
-Main 254.0 Main.qml
-depends QtQuick
-

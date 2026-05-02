@@ -1,0 +1,12 @@
+# Временные файлы сборки Qt
+*.autosave
+build/
+.qtcreator/
+*.user
+*.pro.user
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.obj
+*.exe
